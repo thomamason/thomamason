@@ -1,4 +1,4 @@
- # Hi! My name is **Thomas G. Featherstone**
+ # Hi! My name is **Thomas G. Featherstone**  ![Here's my face](/assets/portrait.jpg "Size of that face.... massive")
 
 ## Some recent projects
 - [My linktree-style website - thomamason.com](https://www.thomamason.com)
