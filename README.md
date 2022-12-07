@@ -1,2 +1,5 @@
-# thomamason
- A Github readme repo
+ ## Hi! My name is Thomas G. Featherstone
+
+
+# Some Github Statistics
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thomamason&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
